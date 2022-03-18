@@ -1,4 +1,4 @@
-# Shop Example using Behave
+# ATM Example using Behave
 
 To install behave, 
 
